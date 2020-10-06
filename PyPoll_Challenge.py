@@ -103,10 +103,8 @@ with open(file_to_save, "w") as txt_file:
         
          # 6d: Print the county results to the terminal.
         print(f"{county}: {vote_count_percentage:.1f}% ({vote_count:,})\n")
-
          # 6e: Save the county votes to a text file.
         txt_file.write(f'{county}: {vote_count_percentage:.1f}% ({vote_count:,})\n')
-        
          # 6f: Write a decision statement to determine the winning county and get its vote count.
         if (vote_count > winning_vote_count) and (vote_count_percentage > winning_vote_percentage):
             winning_vote_count = vote_count
@@ -151,7 +149,7 @@ with open(file_to_save, "w") as txt_file:
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
         f"Winning Percentage: {winning_percentage:.1f}%\n"
-        f"-------------------------\n")
+        f"-------------------------\n\n")
     print(winning_candidate_summary)
 
     # Save the winning candidate's name to the text file
