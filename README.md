@@ -73,7 +73,7 @@ The findings of the following tasks were added to the final election audit:
   
   ![](./Resources/Candidate_Results.png)
   
-  **Election Winner**
+  **Election Winner:**
   
   ![](./Resources/Election_Winner.png)
  
