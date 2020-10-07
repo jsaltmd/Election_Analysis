@@ -83,5 +83,9 @@ The data analysis of the election shows that:
 
 Recommendations:
 
-1. The data analysis tool that was created for this specific tasks can be used for future congressional election as long as the election results template remain the same. The code can be further modified to analyze data for voters fraud.
-2. Hire a data programmer to further optimize the program by Code Refactoring to further clarify and simplify the design of existing codes and accomodate new data that will be pertinent for the outcome of the election. 
+1. The data analysis tool "Python scripts" that was created for this specific tasks can be used for future congressional election as long as the election results template remain the same. The code can be further modified to perform data analytics on:
+- Senatorial disctric elections,
+- Local elections, and
+- Analyze for voters fraud.
+
+2. Hire a data programmer to further optimize the program by Code Refactoring to further clarify and simplify the design of existing codes and accomodate new data that will be pertinent for the outcome of any type of election. 
