@@ -26,7 +26,7 @@ The findings of the following tasks were added to the final election audit:
 **Data Source:** election_results.csv
 **Software:** Python 3.7.6, Visual Studio Code, 1.38.1
 
-## Summary
+## Election Audit Summary
 
 The data analysis of the election shows that:
 
@@ -57,9 +57,9 @@ The data analysis of the election shows that:
  
   - **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
   
- ## Election Summary
+ ## Election Data Summary
    
-  **Election Results**
+  **Election Results:**
   
   ![](./Resources/Election_Results.png)
   
@@ -83,5 +83,5 @@ The data analysis of the election shows that:
 
 Recommendations:
 
-1. The data analysis tool that was created for this specific tasks can be used for future congressional election as long as the election results template remain the same. 
+1. The data analysis tool that was created for this specific tasks can be used for future congressional election as long as the election results template remain the same. The code can be further modified to analyze data for voters fraud.
 2. Hire a data programmer to further optimize the program by Code Refactoring to further clarify and simplify the design of existing codes and accomodate new data that will be pertinent for the outcome of the election. 
