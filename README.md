@@ -37,7 +37,7 @@ The analysis of the election show that:
   
   ## Challenge Overview
   
-Seth, a Colorado Board of Eletions employee, requested help in completing audit of a recent local congressional election.
+Tom, a Colorado Board of Elections employee, requested help in completing the audit of a recent local congressional election.
   
 Below are the results of the data analysis that was provided to Seth and his Team with the findings of the following tasks in the first draft of the election audit:
   
@@ -47,13 +47,13 @@ Below are the results of the data analysis that was provided to Seth and his Tea
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winnner of the election on poppular vote.
   
-Although these outcomes are important, there are a few more key insights his Team would like to review. The election commisiion of Seth's Team asked if he could confirm the voter turnout for each county that voted in this congressional district.
+In order to complete the audit, the election commission has requested some additional data as specified below. They would like to confirm the voter turnout for each county that voted in this congressional district.
   
 The findings of the following tasks were added to the final election audit:
 
 1. Calculate the voter turnout for each county.
-2. Calculate the percentage of votes each county contributed to the election.
-3. determine which county had the largest turnout.
+2. Calculate the percentage of votes from each county out of the total count.
+3. Determine the county with the highest turnout.
   
   ## Challenge Summary
    
