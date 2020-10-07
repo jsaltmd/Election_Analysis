@@ -39,7 +39,7 @@ The data analysis of the election shows that:
   - Denver: 82.8% (306,055 total votes)
   - Arapahoe: 6.7% (24,801 total votes)
 
-3. The county that had the largest numbe rof votes is *Denver*.
+3. The county that had the largest number of votes is *Denver*.
 
 4. Below is a list of candidates and a breakdown of the number of votes and the percentage of the total votes each candidate received:
 
