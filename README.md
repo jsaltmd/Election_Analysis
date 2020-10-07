@@ -65,7 +65,7 @@ The findings of the following tasks were added to the final election audit:
   
   ![](./Resources/County_Votes_Results.png)
   
-  **Largest Counnty Turnout:** 
+  **Largest County Turnout:** 
   
   ![](./Resources/Largest_County_Turnout.png)
   
