@@ -84,7 +84,7 @@ The data analysis of the election shows that:
 Recommendations:
 
 1. The data analysis tool "Python scripts" that was created for this specific tasks can be used for future congressional election as long as the election results template remain the same. The code can be further modified to perform data analytics on:
-- Senatorial disctric elections,
+- Senatorial distric elections,
 - Local elections, and
 - Analyze for voters fraud.
 
